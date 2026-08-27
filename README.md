@@ -26,23 +26,12 @@ focus:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinotusk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39C5CF&icon_color=39C5CF&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinotusk&layout=compact&hide_border=true&bg_color=0d1117&title_color=39C5CF&text_color=c9d1d9)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinotusk&theme=github_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinotusk&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com/?user=dinotusk&hide_border=true&background=0d1117&ring=39C5CF&fire=39C5CF&currStreakLabel=39C5CF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e)
-
-</div>
-
-<details>
-<summary><code>$ cat activity.log</code></summary>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinotusk&bg_color=0d1117&color=39C5CF&line=39C5CF&point=c9d1d9&hide_border=true&area=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinotusk&hide_border=true&background=0D1117&ring=39C5CF&fire=39C5CF&currStreakLabel=39C5CF)
 
 </div>
-
-</details>
 
 ---
 
