@@ -29,7 +29,7 @@ focus:
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinotusk&theme=github_dark)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinotusk&theme=github_dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinotusk&hide_border=true&background=0D1117&ring=39C5CF&fire=39C5CF&currStreakLabel=39C5CF)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinotusk&hide_border=true&background=0D1117&ring=39C5CF&fire=39C5CF&currStreakLabel=39C5CF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9)
 
 </div>
 
