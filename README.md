@@ -88,7 +88,7 @@ focus:
 | **[assistente-fin](https://github.com/dinotusk/assistente-fin)** | React · TanStack · Supabase · Gemini API · Capacitor | App financeiro de uso familiar com assistente de IA integrado: orçamento por envelope, convites de grupo, lembretes via push notification e controle de consentimento/limite de uso de IA — publicado também como app iOS via Capacitor. |
 | **[marmitas-dona-adilma](https://github.com/dinotusk/marmitas-dona-adilma)** | Node.js · Express · Prisma · PostgreSQL · React | Sistema de pedidos para negócio de marmitas: API REST com autenticação JWT, painel administrativo de produção/financeiro e acompanhamento de pedido em tempo real para o cliente. |
 | **[finance-core](https://github.com/dinotusk/finance-core)** | JavaScript · PWA | MVP anterior ao assistente-fin — protótipo de assistente financeiro com entrada via WhatsApp e registro de gastos por mensagem simples, instalável como PWA. |
-| **[busca-dou-app](https://github.com/dinotusk/busca-dou-app)** | Node.js · Express · Gemini API | Busca de publicações no Diário Oficial da União (DOU) sem API pública oficial: scraping do HTML de busca, busca exata/filtros por órgão e período, paginação via cursor e resumo automático das publicações com IA. |
+| **[busca-dou-app](https://github.com/dinotusk/busca-dou-app)** | Node.js · Express · Groq API · Gemini API | Busca de publicações no Diário Oficial da União (DOU) sem API pública oficial: scraping do HTML de busca, busca exata/filtros por órgão e período, paginação via cursor e resumo automático das publicações com IA. |
 
 > Alguns projetos de automação (n8n + WordPress, chatbot WhatsApp standalone) e análises em Python/R ainda não estão publicados — em processo de organização para publicação.
 
